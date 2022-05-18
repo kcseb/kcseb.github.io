@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kcseb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kcseb.digital
+  * I am kcseb (https://keybase.io/kcseb) on keybase.
+  * I have a public key ASB7qno3b8_cCz1L7Ug6gXeuyUwbNLrS5LKKjV40fUPCfgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ac92e3aa25bfdee257dba7d31969df227ad52b0ac3759c1b089ccfe17acb50850a",
+      "host": "keybase.io",
+      "kid": "01207baa7a376fcfdc0b3d4bed483a8177aec94c1b34bad2e4b28a8d5e347d43c27e0a",
+      "uid": "87a5dfa324ac61b39238ce7b400e3f19",
+      "username": "kcseb"
+    },
+    "merkle_root": {
+      "ctime": 1592645784,
+      "hash": "693e2e0e4ab6ee51a2950a3d8d881212b6847935119c2707c9022c13dbb0725ae77a6de11bfcdd0b720337565155b39fd21277f779779e1f7bce891176c060d7",
+      "hash_meta": "02fb4616ef10ac5e31bddef22178df3039996a1876bd523a4b4ea539cc6cbe54",
+      "seqno": 16725146
+    },
+    "service": {
+      "entropy": "2YSxeQ6zekxiTmdNVPl6Xvob",
+      "hostname": "kcseb.digital",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592645853,
+  "expire_in": 504576000,
+  "prev": "cebd29fba59f902f94f7baac1adf00e334009bd9ae9747f625d8f24413331c95",
+  "seqno": 193,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge6p6N2/P3As9S+1IOoF3rslMGzS60uSyio1eNH1Dwn4Kp3BheWxvYWTES5cCzMHEIM69Kfuln5AvlPe6rBrfAOM0AJvZrpdH9iXY8kQTMxyVxCBKK7c0dc8Jc+Ma2fg0DqLEeK67QdVTsvAxNDAappiSKgIBwqNzaWfEQOXiG/UvIyTWwvBf606M61TxXq+u0ZZuyzl9ENuZZJH5KfkyKjc5mWoB1ZWGhV7QN+64/9T1L5z0fRxWXffyEgGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCDUBkWy0bsHFo8mKysgIzfPviZfUx457+Zd4TBOkSNXaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kcseb
+
+==================================================================
